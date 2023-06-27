@@ -1,4 +1,4 @@
-### Hi there 👋
+Iam using this repository for visual studio code for uploading project
 
 <!--
 **Vaishnavipsangam12/vaishnavipsangam12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
